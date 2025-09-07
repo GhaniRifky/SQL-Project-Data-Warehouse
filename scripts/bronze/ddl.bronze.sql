@@ -2,7 +2,7 @@
 ===================================================
 Daftar isi script ini terdiri dari:
 - DDL Tabel Bronze
-- Import data dari csv file dengan metode BULK
+- Import data dari csv file dengan metode BULK INSERT
 ===================================================
 */
 

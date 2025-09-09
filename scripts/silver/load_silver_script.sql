@@ -1,7 +1,12 @@
 /*
-===============================================
+===================================================
 Compile Silver Layer Load Script
-===============================================
+===================================================
+Isi Script:
+	Berisi keseluruhan proses dalam melakukan ETL
+	data yang sudah bersih, dari bronse layer ke 
+	dalam silver layer
+===================================================
 */
 
 
